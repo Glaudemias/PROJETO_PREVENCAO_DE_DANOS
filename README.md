@@ -130,7 +130,7 @@ Avançar na pesquisa
 
 [3](https://pt.wikipedia.org/wiki/Aprendizado_de_m%C3%A1quina) - ***Winkipedia - Aprendizado de Máquina***
 
-[4](https://medium.com/data-science-brigade/a-diferen%C3%A7a-entre-intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-930b5cc2aa42)- ***A diferença entre inteligência artificial Machine Learning e Deep Learning***
+[4](https://medium.com/data-science-brigade/a-diferen%C3%A7a-entre-intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-930b5cc2aa42) - ***A diferença entre inteligência artificial Machine Learning e Deep Learning***
 
 [5](https://paulovasconcellos.com.br/o-que-e-machine-learning-e-como-aprender-sem-gastar-nada-2e612f13102b) - ***O que é Machine Learning e como aprender sem gastar nada***
 
