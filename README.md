@@ -7,7 +7,8 @@
   * Machine Learning
   * Machine Learning aplicado à Saúde
 2. [DADOS](#dt)
-
+  * Entendendo os Dados
+  * Análise Exploratória dos Dados
 3. [METODOLOGIA](#mt)
   * Perguntas norteadoras e hipotéses 
   * Ferramentas
@@ -59,12 +60,17 @@ Do ponto de vista político administrativo a ciência de dados e o Machine Learn
 
 <a name="dt"></a>
 ## **DADOS**
+### Entendendo os Dados
 * Os dados desse notebook foram retirados da plataforma [Kaggle](), são referentes aos dados de internação do hospital Sírio Libanês.
 * Explicar de onde foram tirados os dados
 * Quais são as suas colunas
 * Descrever a estrutura do banco de dados
 * Citar quais colunas que devem sair por conta do Machine Learning (criar o link para o tópico de machine learning)
 * os dataframes que foram utilizados
+
+### Analise exploratória dos Dados
+<img src="Images/GIFS/mapa (3) (2).gif" width="450"/> <img src="Images/GIFS/mapa2 (1).gif" width="450"/> 
+
 
 <a name="mt"></a>
 ## **METODOLOGIA**
