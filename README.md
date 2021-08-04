@@ -61,7 +61,7 @@ Do ponto de vista político administrativo a ciência de dados e o Machine Learn
 <a name="dt"></a>
 ## **DADOS**
 ### Entendendo os Dados
-* Os dados desse notebook foram retirados da plataforma [Kaggle](), são referentes aos dados de internação do hospital Sírio Libanês.
+* Os dados desse notebook foram retirados da plataforma [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19), são referentes aos dados de internação do hospital Sírio Libanês.
 * Explicar de onde foram tirados os dados
 * Quais são as suas colunas
 * Descrever a estrutura do banco de dados
@@ -72,10 +72,25 @@ Do ponto de vista político administrativo a ciência de dados e o Machine Learn
 <img src="Images/GIFS/mapa (3) (2).gif" width="450"/> <img src="Images/GIFS/mapa2 (1).gif" width="450"/> 
 
 
+
 <a name="mt"></a>
 ## **METODOLOGIA**
 
-(breve descrição)
+O presente projeto foi pensado a partir de uma estrutura básica, sendo ela exemplificada no diagrama abaixo:
+
+<img src="Images/IMAGES/METODOLOGIA.jpg"/>
+
+De forma resumida podemos entender esse diagrama da seguinte forma:
+
+* 1: Corresponde a importação das bibliotecas utilizadas para manipulação, tratamento, visualização, leitura e processamento dos dados, além da elaboração dos modelos de Machine Learning;
+* 2: A segunda etapa é o tratamento dos dados, retirando as colunas desnecessárias, tratando os valores vazios, reduzindo o número de informações e dividindo o dataset em uma parte destinada a um dataframe de análise exploratória dos dados e outro destinado a eleboração de modelos de Machine Learning;
+* 3: A terceira etapa é a análise exploratória dos dados. Aqui afim de fazer uma leitura do problema da covid, foi utilizado os dados coletados na plataforma governamental do [COVID-19](https://covid.saude.gov.br/)(dados respectivos ao dia 25/07/2021) utilizados no projeto anterior desse bootcamp e disponivel nesse repositório do [Github](https://github.com/Glaudemias/Projeto_COVID_Sertao_CENTRAL) e também os dados disponibilizados pelo hospital Sírio Libanês, na sua plataforma do [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19);  
+* 4: A quarta etapa é a divisão dos dados em dados de treino e dados de teste, que serão utilizados para treinar e validar a performance dos modelos de Machine Learning elencados para esse projeto
+* 5: A quinta etapa é o treinamento dos dados de teste com cada um dos 4 modelos elencados pra esse projeto.
+* 6: A sexta etapa é a avaliação da performance de cada modelo, utilizando métricas como: AUC e Acurácia
+* 7: A implementação e exportação do modelo de Machine Learning que teve melhor performance e as considerações sobre todo o processo.
+
+Vale a pena salientar que toda essa estrutura foi dividia em 3 notebooks, como pode ser explicado abaixo no tópico de [estrutura](#es).
 
 ### Perguntas norteadoras, ou hipotéses que o Projeto buscou responder(decidir nome)
 
