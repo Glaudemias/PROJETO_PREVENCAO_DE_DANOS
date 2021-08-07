@@ -69,7 +69,7 @@ Do ponto de vista político administrativo a ciência de dados e o Machine Learn
 * os dataframes que foram utilizados
 
 ### Analise exploratória dos Dados
-<img src="Images/GIFS/mapa (3) (2).gif" width="450"/> <img src="Images/GIFS/mapa2 (1).gif" width="450"/> 
+<img src="Images/GIFS/mapa (3) (2).gif" width="450"/>  <img src="Images/GIFS/mapa2 (1).gif" width="450"/> 
 
 
 
