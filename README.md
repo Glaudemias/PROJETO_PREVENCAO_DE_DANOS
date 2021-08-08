@@ -288,7 +288,7 @@ Aqui você encontrará a base de dados usada nesse projeto, essa pasta se divide
 Aqui você encontrará as Imagens e demais peças gráficas geradas ao longo desse projeto e usadas para exemplificar o arquivo read.me:
 * [**GIFS**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/GIFS): Aqui estarão os gifs gerados ao longo do projeto;
 * [**HTML**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/HTML): Arquivo HTML contendo o mapa interativo gerado a partir da biblioteca **folium**;
-* [**IMAGES*](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/IMAGES): Aqui estarão os gifs gerados ao longo do projeto.
+* [**IMAGES**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/IMAGES): Aqui estarão os gifs gerados ao longo do projeto.
 
 ### Notebooks
 
@@ -428,7 +428,7 @@ OBRIGADO!! :)
 
 [15](https://especiais.g1.globo.com/bemestar/vacina/2021/mapa-brasil-vacina-covid/) - **Mapa de vacinação da COVID-19 no Brasil**
 
-# Contato
+# CONTATO
 Se você tiver alguma sugestão ou dica para melhorar o projeto, pode me mandar uma mensagem aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/glaudemias-grangeiro-junior-940a951a1/)](https://www.linkedin.com/in/glaudemias-grangeiro-junior-940a951a1/)
