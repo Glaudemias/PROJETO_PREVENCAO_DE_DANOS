@@ -389,7 +389,7 @@ Muito Obrigado, por ter vindo até aqui!!😄😄
 ... Até logo 🖐️🖐️
 
 <a name="ag"></a>
-# AGRADECIMENTOS
+## AGRADECIMENTOS
 Esse projeto como disse antes, foi proposto como resultado final do Bootcamp de Data Science aplicada, ofertado pela Alura. Tendo isso em mente gostaria de agradecer os professores e profissionais que nos acompanharam ao longo dessa trajetório de aprendizado: Guilherme, Thiago, Karol, Allan. Muito obrigado pelos ensinamentos transmitidos. Gostaria de agradecer também ao ScubaTeam por estarem sempre dispostos a ajudar e tirar dúvidas ao longo dos módulos e dos projetos.
 
 Agradeço ainda aos meus amigos do Discord, Carol, Valquiria e Felipe, por toda a ajuda e pelas conversas que semrpe faziam meu projeto andar. Agradeço também meus amigos Erik e Stephane por sempre me incentivar e por me ajudar a deixar o readme mais bonitinho hahaha
@@ -397,7 +397,7 @@ Agradeço ainda aos meus amigos do Discord, Carol, Valquiria e Felipe, por toda 
 OBRIGADO!! :)
 
 <a name="rb"></a>
-# REFERÊNCIAS BIBLIOGRÁFICAS
+## REFERÊNCIAS BIBLIOGRÁFICAS
 [1](https://covidreference.com/timeline_pt) - ***Linha do Tempo Covid-19 no mundo***
 
 [2](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_2) - ***Coronavirus disease 2019 (COVID-19) Situation Report – 44***
@@ -428,7 +428,7 @@ OBRIGADO!! :)
 
 [15](https://especiais.g1.globo.com/bemestar/vacina/2021/mapa-brasil-vacina-covid/) - **Mapa de vacinação da COVID-19 no Brasil**
 
-# CONTATO
+## CONTATO
 Se você tiver alguma sugestão ou dica para melhorar o projeto, pode me mandar uma mensagem aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/glaudemias-grangeiro-junior-940a951a1/)](https://www.linkedin.com/in/glaudemias-grangeiro-junior-940a951a1/)
