@@ -299,10 +299,10 @@ Aqui você encontrará os notebooks que juntos formam todo o projeto, essa pasta
 <a name="concl"></a>
 ## CONCLUSÕES
 Após a realização de cada projeto trarei aqui as conclusões de cada parte do projeto:
-1. **Parte 1**
+### Parte 1
 Ao fim dessa parte, obtivemos duas bases de dados. Em uma tivemos a **redução do número de features altamente correlacionadas**, **sem dados faltantes** e prontas para serem utilizadas em algoritimos de Machine Learning. **Uma segunda é a base com os dados categóricos**, esses serão analisados e ajudaram a visualizar as informações da base de dados do Sírio Libanês.
 
-2. **Parte 2**
+### Parte 2
 Ao fim dessa parte, obtivemos as seguintes conclusões da análise exploratória dos dados:
 **Análise da base do COVID-19**
 Segunda a análise eploratória podemos confirmar que:
@@ -323,7 +323,7 @@ Ao fim da análise exploratória podemos confirmar que a maior parte de pessoas 
 
 *Esses números demonstram e comprovam o conhecimento que ja sabemos sobre a COVID-19, pessoas com doenças respiratórias e idosas são mais sucetíveis a complicações em caso de contaminação pelo  novo corona vírus.*
 
-3. **Parte 3**
+### Parte 3
 Chegado ao fim dessa parte 3, concluimos assim esse projeto, com os seguintes resutlados:
 
 * Foram testados 4 modelos de Classificação, a fim de encontrar o melhor desempenho na predição de pacientes que precisam ou não ser levados para UTI;
