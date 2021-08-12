@@ -288,7 +288,7 @@ Aqui você encontrará a base de dados usada nesse projeto, essa pasta se divide
 Aqui você encontrará as Imagens e demais peças gráficas geradas ao longo desse projeto e usadas para exemplificar o arquivo read.me:
 * [**GIFS**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/GIFS): Aqui estarão os gifs gerados ao longo do projeto;
 * [**HTML**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/HTML): Arquivo HTML contendo o mapa interativo gerado a partir da biblioteca **folium**;
-* [**IMAGES**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/IMAGES): Aqui estarão os gifs gerados ao longo do projeto.
+* [**IMAGES**](https://github.com/Glaudemias/PROJETO_FINAL/tree/main/Images/IMAGES): Aqui estarão as imagens geradas ao longo do projeto.
 
 ### Notebooks
 
